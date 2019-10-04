@@ -1,0 +1,27 @@
+#head{
+   text-align:center;
+    color:seagreen;
+    background-color: bisque;
+
+}
+#res{
+background-color:violet;
+}
+#set1{
+    height:400px;
+    width:100px;
+    float:left;
+}
+#set2{
+    text-align: right;
+    justify-content: baseline;
+    text-emphasis-color:blue;
+}
+#bgcolor
+{
+    background-color:rosybrown;
+}
+#search
+{
+    margin-left: 40%;
+}
